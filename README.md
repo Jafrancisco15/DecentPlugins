@@ -4,14 +4,12 @@ AutoRescue for Decent DE1
 
 Flow-mode rescue profiles + optional automatic profile selection
 
-TL;DR
+
 AutoRescue helps stabilize espresso shots when the grind is a bit off by driving flow while capping pressure.
 
 v0.1 — AutoRescue: installs three safe, ready-to-use rescue profiles.
 
 v0.2 — AutoRescueAuto: adds a short AutoProbe and auto-selects the best profile (Fine/Coarse/Auto) based on early pressure/flow. Preconfigured builds for DE1app 1.37 and 1.45 are included.
-
-
 
 ---
 
